@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,MACE,gCAAkC,CAClC,gBACF,CAEA,cACE,WAAY,CACZ,WACF","file":"main.1a34d0ff.chunk.css","sourcesContent":[".text {\n  font-family: 'Raleway', sans-serif;\n  font-size: 1.5rem;\n}\n\n.twitter-wrap {\n  height: 38px;\n  padding: 3px;\n}\n"]}
